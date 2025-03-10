@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": false,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "Alyssaf-j",
+    "is_private": false,
+    "title": "MUS 307 Hip Hop Decoded - Early Hip Hop ",
+    "description": "This project is to be assigned to students to develop a 5-week project with 5 events. Students will develop a set of of annotations, then tag groups which they will then choose to present on at least one aspect of their AV annotations. The topic is The Four Elements of Early Hip Hop",
+    "language": "en",
+    "slug": "Hip-Hop",
+    "creator": "Alyssaf-j",
+    "authors": "Alyssa Frick-Jenkins",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-03-10T21:21:43.107Z",
+    "updated_at": "2025-03-10T21:21:43.107Z"
   }
 }
