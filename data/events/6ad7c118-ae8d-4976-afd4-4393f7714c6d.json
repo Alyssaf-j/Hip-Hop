@@ -1,0 +1,74 @@
+{
+  "audiovisual_files": {
+    "2e3217e7-b88f-47c4-861e-93cdc9f83787": {
+      "label": "how to do a break mix grand master flash 1983",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=Kk99DmV5uLk",
+      "duration": 411,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Students will identify the DJ’s set-up, common beat-breaks and coined techniques that defined the sound of early Hip-Hop. They should also distinguish the role of the DJ from the MC in Hip-Hop’s history:"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Beat breaks and techniques"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "3 common beat breaks: ‘Amen’, ‘Funky Drummer’, ‘Apache’"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Beat matching (BPM)"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Merry-go-round (aka cut & mix) by DJ Kool Herc"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Extending the break by Grandmaster Flash"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "How to Break and Mix Grandmaster Flash (1983)",
+  "created_at": "2025-03-10T21:49:15.040Z",
+  "created_by": "Alyssaf-j",
+  "updated_at": "2025-03-10T21:49:15.040Z",
+  "updated_by": "Alyssaf-j"
+}
