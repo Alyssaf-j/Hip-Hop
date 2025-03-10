@@ -1,0 +1,90 @@
+{
+  "audiovisual_files": {
+    "a0927e95-d505-4087-a023-69d81d890765": {
+      "label": "A Letter to Kool Herc from Grandmaster Flash",
+      "is_offline": false,
+      "file_url": "https://ia601505.us.archive.org/21/items/a-letter-to-kool-herc-from-grandmaster-flash/A%20Letter%20to%20Kool%20Herc%20From%20Grandmaster%20Flash.mp4",
+      "duration": 1111,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Students will identify DJs, their set-up and techniques that shaped early Hip-Hop. They will also be able to describe the social, economic, racialized and gendered dynamics of a Postindustrial NY that contributed to the formation of Hip-Hop:"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Set-up: platter, pitch adjuster, start/stop, arm, needle"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Beat breaks and techniques"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "3 common beat breaks: ‘Amen’, ‘Funky Drummer’, ‘Apache’"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Beat matching (BPM)"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Merry-go-round (aka cut & mix) by DJ Kool Herc"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Extending the break by Grandmaster Flash"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "A Letter to Kool Herc from Grandmaster Flash",
+  "created_at": "2025-03-10T21:56:06.150Z",
+  "created_by": "Alyssaf-j",
+  "updated_at": "2025-03-10T21:56:06.150Z",
+  "updated_by": "Alyssaf-j"
+}
